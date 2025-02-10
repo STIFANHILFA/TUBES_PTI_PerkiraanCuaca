@@ -1,6 +1,6 @@
 .env
-echo "DB_HOST=localhost" > .env
-echo "DB_USER=root" >> .env
-echo "DB_PASS=" >> .env
-echo "DB_NAME=banjirr" >> .env
+echo "servername=localhost" > .env
+echo "username=root" >> .env
+echo "password=" >> .env
+echo "dbname=banjirr" >> .env
 
